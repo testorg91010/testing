@@ -39,7 +39,7 @@ template: signposting.html
 
 ## Location
 
-- where it will be available
+- where it will be available.
 - physical location
 - URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
 
